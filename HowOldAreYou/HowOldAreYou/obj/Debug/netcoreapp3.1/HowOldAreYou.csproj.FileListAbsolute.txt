@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.exe
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.deps.json
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.dll
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\bin\Debug\netcoreapp3.1\HowOldAreYou.pdb
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.dll
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.pdb
+C:\Users\Roland Strod\source\repos\HowOldAreYou\HowOldAreYou\obj\Debug\netcoreapp3.1\HowOldAreYou.genruntimeconfig.cache

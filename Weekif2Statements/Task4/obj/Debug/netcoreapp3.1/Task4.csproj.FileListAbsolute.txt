@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\obj\Debug\netcoreapp3.1\Task4.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\obj\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Task4\obj\Debug\netcoreapp3.1\Task4.genruntimeconfig.cache

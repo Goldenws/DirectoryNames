@@ -1,0 +1,12 @@
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Weekif2Statements\bin\Debug\netcoreapp3.1\Weekif2Statements.exe
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Weekif2Statements\bin\Debug\netcoreapp3.1\Weekif2Statements.deps.json
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Weekif2Statements\bin\Debug\netcoreapp3.1\Weekif2Statements.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Weekif2Statements\bin\Debug\netcoreapp3.1\Weekif2Statements.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Weekif2Statements\bin\Debug\netcoreapp3.1\Weekif2Statements.dll
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Weekif2Statements\bin\Debug\netcoreapp3.1\Weekif2Statements.pdb
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Weekif2Statements\obj\Debug\netcoreapp3.1\Weekif2Statements.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Weekif2Statements\obj\Debug\netcoreapp3.1\Weekif2Statements.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Weekif2Statements\obj\Debug\netcoreapp3.1\Weekif2Statements.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Weekif2Statements\obj\Debug\netcoreapp3.1\Weekif2Statements.dll
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Weekif2Statements\obj\Debug\netcoreapp3.1\Weekif2Statements.pdb
+C:\Users\Roland Strod\source\repos\Weekif2Statements\Weekif2Statements\obj\Debug\netcoreapp3.1\Weekif2Statements.genruntimeconfig.cache

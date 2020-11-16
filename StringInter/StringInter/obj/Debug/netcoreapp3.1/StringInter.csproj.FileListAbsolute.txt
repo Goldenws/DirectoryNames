@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\bin\Debug\netcoreapp3.1\StringInter.exe
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\bin\Debug\netcoreapp3.1\StringInter.deps.json
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\bin\Debug\netcoreapp3.1\StringInter.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\bin\Debug\netcoreapp3.1\StringInter.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\bin\Debug\netcoreapp3.1\StringInter.dll
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\bin\Debug\netcoreapp3.1\StringInter.pdb
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\obj\Debug\netcoreapp3.1\StringInter.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\obj\Debug\netcoreapp3.1\StringInter.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\obj\Debug\netcoreapp3.1\StringInter.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\obj\Debug\netcoreapp3.1\StringInter.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\obj\Debug\netcoreapp3.1\StringInter.dll
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\obj\Debug\netcoreapp3.1\StringInter.pdb
+C:\Users\Roland Strod\source\repos\StringInter\StringInter\obj\Debug\netcoreapp3.1\StringInter.genruntimeconfig.cache
